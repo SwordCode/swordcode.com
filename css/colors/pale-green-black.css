@@ -1,0 +1,57 @@
+.navbar-brand span:before {background:#64e294;}
+.folio-thumb-overlay ul li a:hover {border-top:1px solid #64e294;}
+.navbar-nav li.active a:before ,.navbar-nav li a:hover:before {background:#64e294 !important;}
+.page-head h2 {color:#64e294;}
+article h3 a:hover {color:#64e294;}
+.p-ico i {color:#64e294;background:#fff url(../../images/colors/pgreen/border.png) no-repeat top center;}
+.play-btn {background: url(../../images/colors/pgreen/play.png) no-repeat;}
+.pause-btn {background: url(../../images/colors/pgreen/pause.png) no-repeat;}
+.tags-list li a:hover {background:#64e294;border:1px solid #64e294;}
+.page-nav ul li.active a ,.page-nav ul li a:hover {background:#64e294;border-color:#64e294;}
+.share-social li a:hover {background:#64e294;}
+.c-time {color:#64e294;}
+.reply:hover {background:#64e294;border-color:#64e294;}
+#owl-intro .item h2 {color:#64e294;}
+#owl-intro .owl-controls .owl-page.active span {background: #64e294;}
+#owl-intro .owl-controls .owl-prev:hover ,
+#owl-intro .owl-controls .owl-next:hover ,
+#owl-folio .owl-controls .owl-prev:hover ,
+#owl-folio .owl-controls .owl-next:hover {background:#64e294;}
+#services ul li:hover:before {background:#64e294;}
+.content-head h5:before {background:#64e294;}
+.fworks-info h4, .skills h4 {color:#64e294;}
+#owl-fworks .owl-controls .owl-page.active span {background: #64e294;}
+#video-wrap h3 {color:#64e294;}
+.about ul li:hover {border-bottom-color:#64e294;}
+.about ul li:hover i {background:#64e294;border:1px solid #64e294;}
+.about ul li:hover h4 {color:#64e294;}
+.mission .title {color:#64e294;}
+.skills-wrap div span em {color:#64e294;}
+#facts h3, .inner-wrap2 h3 {color:#64e294;}
+.services2-left ul li:hover ,.services2-right ul li:hover {border-bottom-color:#64e294;}
+.services2-left ul li:hover i ,.services2-right ul li:hover i {background:#64e294;border:1px solid #64e294;}
+.services2-left ul li:hover h4 ,.services2-right ul li:hover h4 {color:#64e294;}
+#team .item:hover .team-info {background:#64e294;}
+.folio-info:hover .folio-inner {background:#64e294;border-color:#64e294;}
+#owl-team .owl-controls .owl-page.active span {background: #64e294;}
+.testimonials h5 {color:#64e294;}
+#owl-quotes .owl-controls .owl-page.active span {background: #64e294;}
+.cinfo:before {background:#64e294;}
+footer p a:hover {color:#64e294;}
+.social li a:hover {background:#64e294;}
+.rmore, .btn-wrap a, .contact-form button, .c-form button {background:url(../../images/colors/pgreen/border1.png) no-repeat top center;}
+.map-wrap h3 {background:#64e294 url(../../images/colors/pgreen/l-bg.png) no-repeat top;}
+.content-head p {background:url(../../images/colors/pgreen/sep1.png) no-repeat center left;}
+.sep2 {background:url(../../images/colors/pgreen/sep2.png) no-repeat center;}
+#services {background:#64e294 url(../../images/colors/pgreen/service-bg.png) no-repeat center bottom;}
+.reply, .inner-wrap2 a , .services2-left ul li i, .services2-right ul li i, #facts ul li i , .about ul li i , #owl-intro .item a {background: url(../../images/colors/pgreen/border.png) no-repeat center top;}
+.play-btn {background:url(../../images/colors/pgreen/play.png) no-repeat;}
+.search:before {color:#64e294;}
+.side-list li:before {color:#64e294;}
+.rposts-list li span a {color:#64e294;}
+.rposts-list li:before {color:#64e294;}
+.post-meta a {color:#64e294;}
+
+
+
+
