@@ -8,12 +8,12 @@
  * The script will try to use PHP's mail() function,
  * so if it is not properly configured it will fail silently (no error).
  */
-$mailTo     = 'euclidesflores@swordcode.com';
+$mailTo     = 'euclidesflores@operamai.com';
 
 /**
  * Set the message that will be shown on success
  */
-$successMsg = 'Gracias, mensage enviado';
+$successMsg = 'Gracias, mensaje enviado';
 
 /**
  * Set the message that will be shown if not all fields are filled
